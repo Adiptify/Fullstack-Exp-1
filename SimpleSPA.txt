@@ -1,0 +1,4 @@
+Create a Counter App   
+That can interact with the user as per the button on + and - and the Counter should be displayed the value as per the user clicks on the button
+Create a Todo App
+that can add and remove the todo list with the user interaction
